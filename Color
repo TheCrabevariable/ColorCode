@@ -1,3 +1,7 @@
+RGBA is (Hex of a color + 2 number for opacity)
+
 Bordeaux    ; rgba(6A3346ee)  rgb(6A3346)
 Orange      ; rgb(E29C6F)
 GruvOrange  ; rgb(282828) #282828
+LightGreen  ; rgb(BBDCA3)
+DarkGreen   ; rgb(558A21)
